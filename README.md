@@ -1,3 +1,3 @@
 # Calculateur-IMC
 
-## [Start](https://github.com/reverbman/Calculateur-IMC)
+## [Start](https://reverbman.github.io/Calculateur-IMC/)
