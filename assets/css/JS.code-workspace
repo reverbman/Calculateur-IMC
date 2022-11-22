@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../01_TP"
+		},
+		{
+			"path": "../../../../../../Downloads/02_TP_PHOENIX-consignes-20221007T081048Z-001/02_TP_PHOENIX-consignes"
+		},
+		{
+			"path": "../../../../../../Desktop/17_TP_semantik"
+		},
+		{
+			"path": "../../../../../../Downloads/project-20221114T080934Z-001/project"
+		},
+		{
+			"path": "../../../../../../Downloads/__EVALUATIONS BLANCHES-20221121T083429Z-001"
+		},
+		{
+			"path": "../../../../../../Downloads/menu_burger-20221122T080347Z-001/menu_burger"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#ff47aa",
+			"activityBar.background": "#ff47aa",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#336000",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"commandCenter.border": "#e7e7e799",
+			"sash.hoverBorder": "#ff47aa",
+			"statusBar.background": "#ff1493",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#ff47aa",
+			"statusBarItem.remoteBackground": "#ff1493",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"titleBar.activeBackground": "#ff1493",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#ff149399",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.color": "#FF1493",
+		"liveServer.settings.multiRootWorkspaceName": "__EVALUATIONS BLANCHES-20221121T083429Z-001"
+	}
+}
